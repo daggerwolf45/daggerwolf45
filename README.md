@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+### Welcom to my code for making robots drive on their own and some *fun* networking stuff. 
 
 <!--
 **daggerwolf45/daggerwolf45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
