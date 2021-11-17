@@ -2,7 +2,7 @@
 ### Welcome to my github page! Theres everything from FRC robots to networking-protocol-prototypes to Discord bots.
 
 - 🔭 I’m currently working on a Discord bot feautring NLP that integrates with HomeAssistant
-- 🌱 I’m currently learning more JS
+- 🌱 I’m currently learning about Natural Language Processing
 - 💬 Ask me about the Wilson Wong Expirence
 - 📫 How to reach me: slaird@wpi.edu
 - 😄 Pronouns: He/Him
