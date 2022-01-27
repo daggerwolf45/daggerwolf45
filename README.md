@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Discord bot feautring NLP that integrates with HomeAssistant
 - 🌱 I’m currently learning about Natural Language Processing
 - 💬 Ask me about the Wilson Wong Expirence
-- 📫 How to reach me: slaird@wpi.edu
+- 📫 How to reach me: me@slaird.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The ammount of time I spend tuning 3d printers is a problem.
 
