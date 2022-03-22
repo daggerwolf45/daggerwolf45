@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### Welcome to my github page! Theres everything from FRC robots to networking-protocol-prototypes to Discord bots.
 
-- 🔭 I’m currently working on a Discord bot feautring NLP that integrates with HomeAssistant
-- 🌱 I’m currently learning about Natural Language Processing
+- 🔭 I’m currently working on a housplant recommender app
+- 🌱 I’m currently learning about Gardening
 - 💬 Ask me about the Wilson Wong Expirence
 - 📫 How to reach me: me@slaird.dev
 - 😄 Pronouns: He/Him
