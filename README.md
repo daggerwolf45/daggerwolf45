@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Welcome to my github page! Theres everything from FRC robots to networking-protocol-prototypes to Discord bots.
 
-- 🔭 I’m currently working on a housplant recommender app
+- 🔭 I’m currently working on a custom media server
 - 🌱 I’m currently learning about Gardening
 - 💬 Ask me about the Wilson Wong Expirence
 - 📫 How to reach me: me@slaird.dev
