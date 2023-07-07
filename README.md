@@ -1,12 +1,12 @@
 ## Hi there 👋
-### Welcome to my github page! Theres everything from FRC robots to networking-protocol-prototypes to Discord bots.
+### Welcome to my GitHub page! There's everything from FRC robots to networking-protocol-prototypes to Discord bots.
 
 - 🔭 I’m currently working on a custom media server
-- 🌱 I’m currently learning about Gardening
-- 💬 Ask me about the Wilson Wong Expirence
+- 🌱 I’m currently learning about containerization and snapshot transportation
+- 💬 Ask me about virtualizing routers
 - 📫 How to reach me: me@slaird.dev
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The ammount of time I spend tuning 3d printers is a problem.
+- ⚡ Fun fact: The amount of time I spend tuning 3d printers is a problem.
 
 <!--
 **daggerwolf45/daggerwolf45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
