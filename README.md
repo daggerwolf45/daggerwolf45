@@ -1,9 +1,9 @@
 ## Hi there 👋
-### Welcome to my GitHub page! There's everything from FRC robots to networking-protocol-prototypes to Discord bots.
+### Welcome to my GitHub page! There's everything from FRC robot code to networking-protocol-prototypes to Discord bots.
 
-- 🔭 I’m currently working on a custom media server
+- 🔭 I’m currently working on A wardrobe app for neurodivergent people.
 - 🌱 I’m currently learning about containerization and snapshot transportation
-- 💬 Ask me about virtualizing routers
+- 💬 Ask me about: TCP Congestion Control and Fair Queuing
 - 📫 How to reach me: me@slaird.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The amount of time I spend tuning 3d printers is a problem.
